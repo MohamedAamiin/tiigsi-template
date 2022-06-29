@@ -2,6 +2,6 @@
 
 
 
-###### THis is My Fisrt Web in Tialwind
-* Still learning Tialwind ❤❤❤ 
-* Still I'm beginer 😁😁😁
+###### Begginer in software engineering
+* coding is very easy if you undestand it ❤❤❤ 
+* 
